@@ -37,7 +37,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(chiefelite/base.svg);
+    background: url(chiefelite/base.svgz);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -45,7 +45,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 }
 
 .xbox.white {
-    background: url(chiefelite/base.svg);
+    background: url(chiefelite/base.svgz);
 }
 
 .xbox.disconnected {
