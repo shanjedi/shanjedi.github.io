@@ -83,7 +83,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(chiefelite/bumper.svgz);
+    background: url(chiefelite/bumper.svg);
     opacity: 0;
 }
 
@@ -177,7 +177,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 
 .xbox .button {
     position: absolute;
-    background: url(chief/abxy.svgz);
+    background: url(chiefelite/abxy.svg);
     width: 48px;
     height: 49px;
 }
@@ -222,7 +222,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 
 .xbox .stick {
     position: absolute;
-    background: url(chiefelite/stick.svgz);
+    background: url(chiefelite/stick.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
