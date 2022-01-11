@@ -37,7 +37,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(h5/base.png);
+    background: url(elitebase/base.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -45,7 +45,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 }
 
 .xbox.white {
-    background: url(h5/base.png);
+    background: url(elite/base.png);
 }
 
 .xbox.disconnected {
@@ -66,7 +66,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(h5/trigger.svgz);
+    background: url(elitebase/trigger.svgz);
     opacity: 0;
 }
 
@@ -83,7 +83,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(h5/bumper.svgz);
+    background: url(elitebase/bumper.svgz);
     opacity: 0;
 }
 
@@ -111,7 +111,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 
 .xbox .quadrant {
     position: absolute;
-    background: url(h5/xquadrant.svgz);
+    background: url(elitebase/xquadrant.svgz);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -148,7 +148,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 }
 
 .xbox .back, .xbox .start {
-    background: url(h5/start-select.svgz);
+    background: url(elitebase/start-select.svgz);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -177,7 +177,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 
 .xbox .button {
     position: absolute;
-    background: url(h5/abxyedit.png);
+    background: url(elitebase/abxy.svgz);
     width: 48px;
     height: 49px;
 }
@@ -222,7 +222,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 
 .xbox .stick {
     position: absolute;
-    background: url(h5/stick.svgz);
+    background: url(elitebase/stick.svgz);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -251,7 +251,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 }
 
 .xbox .face {
-    background: url(h5/dpad.svgz);
+    background: url(elitebase/elitedpad.svg);
     position: absolute;
     opacity: 0;
 }
@@ -260,33 +260,33 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
     opacity: 1;
 }
 
-.xbox .face.up {
+.xbox .face.up {1
     background-position: 34px 0;
     left: 38px;
     top: 0px;
-    width: 34px;
-    height: 56px;
-}
+    width: 43px;
+    height: 42px;
+}=
 
 .xbox .face.down {
     left: 38px;
     bottom: 0;
-    width: 34px;
-    height: 56px;
+    width: 43px;
+    height: 42px;
 }
 
 .xbox .face.left {
     background-position: 0 -93px;
-    width: 55px;
-    height: 35px;
+    width: 43px;
+    height: 42px;
     top: 38px;
     left: 0;
 }
 
 .xbox .face.right {
     background-position: 0 -57px;
-    width: 55px;
-    height: 35px;
+    width: 43px;
+    height: 42px;
     top: 38px;
     right: 0;
 }
