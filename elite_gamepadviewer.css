@@ -251,7 +251,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 }
 
 .xbox .face {
-    background: url(elitebase/elitedpad.svg);
+    background: url(elitebase/elitedpadtest.png);
     position: absolute;
     opacity: 0;
 }
@@ -264,20 +264,20 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
     background-position: 34px 0;
     left: 38px;
     top: 0px;
-    width: 43px;
+    width: 42px;
     height: 42px;
 }=
 
 .xbox .face.down {
     left: 38px;
     bottom: 0;
-    width: 43px;
+    width: 42px;
     height: 42px;
 }
 
 .xbox .face.left {
     background-position: 0 -93px;
-    width: 43px;
+    width: 42px;
     height: 42px;
     top: 38px;
     left: 0;
@@ -285,7 +285,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 
 .xbox .face.right {
     background-position: 0 -57px;
-    width: 43px;
+    width: 42px;
     height: 42px;
     top: 38px;
     right: 0;
