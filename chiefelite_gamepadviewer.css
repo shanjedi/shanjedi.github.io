@@ -37,7 +37,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(chiefelite/base.svgz);
+    background: url(chiefelite/base.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -45,7 +45,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 }
 
 .xbox.white {
-    background: url(chiefelite/base.svgz);
+    background: url(chiefelite/base.png);
 }
 
 .xbox.disconnected {
@@ -83,7 +83,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(chiefelite/bumper.svg);
+    background: url(chiefelite/bumper.png);
     opacity: 0;
 }
 
@@ -177,7 +177,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 
 .xbox .button {
     position: absolute;
-    background: url(chiefelite/abxy.svg);
+    background: url(chiefelite/abxy.png);
     width: 48px;
     height: 49px;
 }
@@ -222,7 +222,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 
 .xbox .stick {
     position: absolute;
-    background: url(chiefelite/stick.svg);
+    background: url(chiefelite/stick.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -251,7 +251,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 }
 
 .xbox .face {
-    background: url(chiefelite/elitedpad.svg);
+    background: url(chiefelite/elitedpadtest.png);
     position: absolute;
     opacity: 0;
 }
