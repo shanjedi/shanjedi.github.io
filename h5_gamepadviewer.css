@@ -177,9 +177,9 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 
 .xbox .button {
     position: absolute;
-    background: url(abxyedit.svg);
+    background: url(abxyedit.png);
     width: 48px;
-    height: 48px;
+    height: 49px;
 }
 
 .xbox .button.pressed {
