@@ -37,7 +37,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(xbox-assets/base.svgz);
+    background: url(base.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -45,7 +45,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 }
 
 .xbox.white {
-    background: url(https://i.imgur.com/8kBiQ3W.png);
+    background: url(base.png);
 }
 
 .xbox.disconnected {
@@ -177,7 +177,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 
 .xbox .button {
     position: absolute;
-    background: url(https://i.imgur.com/2BX7ADD.png);
+    background: url(abxy edit.png);
     width: 48px;
     height: 48px;
 }
