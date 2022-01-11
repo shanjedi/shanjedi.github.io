@@ -251,7 +251,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 }
 
 .xbox .face {
-    background: url(elitebase/dpad.svgz);
+    background: url(elitebase/elitedpad.svg);
     position: absolute;
     opacity: 0;
 }
@@ -260,36 +260,35 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
     opacity: 1;
 }
 
-.xbox .face.up {1
+.xbox .face.up {
     background-position: 34px 0;
     left: 38px;
     top: 0px;
-    width: 42px;
-    height: 42px;
-}=
+    width: 34px;
+    height: 56px;
+}
 
 .xbox .face.down {
     left: 38px;
     bottom: 0;
-    width: 42px;
-    height: 42px;
+    width: 34px;
+    height: 56px;
 }
 
 .xbox .face.left {
     background-position: 0 -93px;
-    width: 42px;
-    height: 42px;
+    width: 55px;
+    height: 35px;
     top: 38px;
     left: 0;
 }
 
 .xbox .face.right {
     background-position: 0 -57px;
-    width: 42px;
-    height: 42px;
+    width: 55px;
+    height: 35px;
     top: 38px;
     right: 0;
-}
 
 .xbox.half {
     margin-top: -315px;
